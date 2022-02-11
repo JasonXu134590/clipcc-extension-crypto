@@ -1,0 +1,11 @@
+{
+    "jasonxu.crypto.name": "Crypto Extension",
+    "jasonxu.crypto.description": "Crypto Extension For ClipCC 3.",
+    "jasonxu.crypto.crypto.messageid": "Crypto",
+    "jasonxu.crypto.md5": "get md5 [THING]",
+    "jasonxu.crypto.sha1": "get sha1 [THING]",
+    "jasonxu.crypto.sha256": "get sha256 [THING]",
+    "jasonxu.crypto.sha512": "get sha512 [THING]",
+    "jasonxu.crypto.aesEny": "AES [THING] by key[KEY] using algorithm [TYPE]",
+    "jasonxu.crypto.aesDey": "Decrypt AES [THING] by key[KEY] using algorithm [TYPE]"
+}

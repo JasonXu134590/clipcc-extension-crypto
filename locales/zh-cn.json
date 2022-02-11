@@ -1,0 +1,12 @@
+{
+    "jasonxu.crypto.name": "加密",
+    "jasonxu.crypto.description": "加密扩展",
+    "jasonxu.crypto.crypto.messageid": "加密",
+    "jasonxu.crypto.md5": "获取 [THING] 的MD5值",
+    "jasonxu.crypto.sha1": "获取 [THING] 的SHA1值",
+    "jasonxu.crypto.sha256": "获取 [THING] 的SHA256值",
+    "jasonxu.crypto.sha512": "获取 [THING] 的SHA512值",
+    "jasonxu.crypto.aesEny": "使用AES算法 [TYPE] 加密 [THING]  密码[KEY]",
+    "jasonxu.crypto.aesDey": "使用AES算法 [TYPE] 解密 [THING]  密码[KEY]",
+    "jasonxu.tools.formatDate": "将UNIX时间戳 [DATE] 转换为准确日期"
+}
