@@ -7,5 +7,15 @@
     "jasonxu.crypto.sha256": "get sha256 [THING]",
     "jasonxu.crypto.sha512": "get sha512 [THING]",
     "jasonxu.crypto.aesEny": "AES [THING] by key[KEY] using algorithm [TYPE]",
-    "jasonxu.crypto.aesDey": "Decrypt AES [THING] by key[KEY] using algorithm [TYPE]"
+    "jasonxu.crypto.aesDey": "decrypt AES [THING] by key[KEY] using algorithm [TYPE]",
+    "jasonxu.crypto.desEny": "DES [THING] by key[KEY] using algorithm [TYPE]",
+    "jasonxu.crypto.desDey": "decrypt DES [THING] by key[KEY] using algorithm [TYPE]",
+    "jasonxu.crypto.EnyBase64": "Base64 [THING]",
+    "jasonxu.crypto.DeyBase64": "decode base64 [THING]",
+    "jasonxu.crypto.rsaSign": "<实验性功能> 使用RSA算法 [TYPE] 以及私钥 [PRIVATE] 获取数据 [DATA] 的签名",
+    "jasonxu.crypto.rsaVerifySign": "<实验性功能> 使用RSA算法 [TYPE] 以及公钥 [PUBLIC] 验证数据 [DATA] 的签名 [SIGN]",
+    "jasonxu.crypto.rsaPublicEncrypt": "<实验性功能> 使用公钥 [PUBLIC] 加密内容 [DATA]",
+    "jasonxu.crypto.rsaPublicDecrypt": "<实验性功能> 使用公钥 [PUBLIC] 解密内容 [DATA]",
+    "jasonxu.crypto.rsaPrivateEncrypt": "<实验性功能> 使用私钥 [PRIVATE] 加密内容 [DATA]",
+    "jasonxu.crypto.rsaPrivateDecrypt": "<实验性功能> 使用私钥 [PRIVATE] 解密内容 [DATA]"
 }

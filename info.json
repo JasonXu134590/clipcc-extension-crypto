@@ -1,8 +1,8 @@
 {
     "id": "jasonxu.crypto",
     "author": "JasonXu",
-    "version": "1.0.1",
-    "icon": "assets/icon.jpg",
+    "version": "2.0.7",
+    "icon": "assets/icon.png",
     "inset_icon": "assets/inset_icon.svg",
     "api": 1
 }

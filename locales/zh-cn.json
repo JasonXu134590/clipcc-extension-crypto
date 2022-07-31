@@ -8,5 +8,14 @@
     "jasonxu.crypto.sha512": "获取 [THING] 的SHA512值",
     "jasonxu.crypto.aesEny": "使用AES算法 [TYPE] 加密 [THING]  密码[KEY]",
     "jasonxu.crypto.aesDey": "使用AES算法 [TYPE] 解密 [THING]  密码[KEY]",
-    "jasonxu.tools.formatDate": "将UNIX时间戳 [DATE] 转换为准确日期"
+    "jasonxu.crypto.desEny": "使用DES算法 [TYPE] 加密 [THING]  密码[KEY]",
+    "jasonxu.crypto.desDey": "使用DES算法 [TYPE] 解密 [THING]  密码[KEY]",
+    "jasonxu.crypto.EnyBase64": "获取 [THING] 的BASE64值",
+    "jasonxu.crypto.DeyBase64": "获取BASE64值 [THING] 的原文",
+    "jasonxu.crypto.rsaSign": "<实验性功能> 使用RSA算法 [TYPE] 以及私钥 [PRIVATE] 获取数据 [DATA] 的签名",
+    "jasonxu.crypto.rsaVerifySign": "<实验性功能> 使用RSA算法 [TYPE] 以及公钥 [PUBLIC] 验证数据 [DATA] 的签名 [SIGN]",
+    "jasonxu.crypto.rsaPublicEncrypt": "<实验性功能> 使用公钥 [PUBLIC] 加密RSA内容 [DATA]",
+    "jasonxu.crypto.rsaPublicDecrypt": "<实验性功能> 使用公钥 [PUBLIC] 解密RSA内容 [DATA]",
+    "jasonxu.crypto.rsaPrivateEncrypt": "<实验性功能> 使用私钥 [PRIVATE] 加密RSA内容 [DATA]",
+    "jasonxu.crypto.rsaPrivateDecrypt": "<实验性功能> 使用私钥 [PRIVATE] 解密RSA内容 [DATA]"
 }
