@@ -1,0 +1,21 @@
+{
+    "jasonxu.crypto.name": "加密",
+    "jasonxu.crypto.description": "加密擴充套件",
+    "jasonxu.crypto.crypto.messageid": "加密",
+    "jasonxu.crypto.md5": "獲取 [THING] 的MD5值",
+    "jasonxu.crypto.sha1": "獲取 [THING] 的SHA1值",
+    "jasonxu.crypto.sha256": "獲取 [THING] 的SHA256值",
+    "jasonxu.crypto.sha512": "獲取 [THING] 的SHA512值",
+    "jasonxu.crypto.aesEny": "使用AES算法 [TYPE] 加密 [THING]  密碼[KEY]",
+    "jasonxu.crypto.aesDey": "使用AES算法 [TYPE] 解密 [THING]  密碼[KEY]",
+    "jasonxu.crypto.desEny": "使用DES算法 [TYPE] 加密 [THING]  密碼[KEY]",
+    "jasonxu.crypto.desDey": "使用DES算法 [TYPE] 解密 [THING]  密碼[KEY]",
+    "jasonxu.crypto.EnyBase64": "獲取 [THING] 的BASE64值",
+    "jasonxu.crypto.DeyBase64": "獲取BASE64值 [THING] 的原文",
+    "jasonxu.crypto.rsaSign": "<實驗性功能> 使用RSA算法 [TYPE] 以及私鑰 [PRIVATE] 獲取數據 [DATA] 的簽名",
+    "jasonxu.crypto.rsaVerifySign": "<實驗性功能> 使用RSA算法 [TYPE] 以及公鑰 [PUBLIC] 驗證數據 [DATA] 的簽名 [SIGN]",
+    "jasonxu.crypto.rsaPublicEncrypt": "<實驗性功能> 使用公鑰 [PUBLIC] 加密RSA內容 [DATA]",
+    "jasonxu.crypto.rsaPublicDecrypt": "<實驗性功能> 使用公鑰 [PUBLIC] 解密RSA內容 [DATA]",
+    "jasonxu.crypto.rsaPrivateEncrypt": "<實驗性功能> 使用私鑰 [PRIVATE] 加密RSA內容 [DATA]",
+    "jasonxu.crypto.rsaPrivateDecrypt": "<實驗性功能> 使用私鑰 [PRIVATE] 解密RSA內容 [DATA]"
+}
